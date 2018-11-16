@@ -1,5 +1,5 @@
 Cabeza Gómez, Lucía
-Conde García, Juan Manuel
+~~Conde García, Juan Manuel~~
 Feim Faik, Oktay
 Filip, Robert
 García Mateos, Gonzalo
